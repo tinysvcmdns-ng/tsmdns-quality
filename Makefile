@@ -1,4 +1,4 @@
-PROJECT=tynisvcmdns
+PROJECT=tinysvcmdns
 PROJECTBASEDIR=..
 SONAR_ORGANIZATION?=tinysvcmdns-ng
 BWOUT=bw-output
